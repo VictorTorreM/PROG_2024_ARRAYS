@@ -8,22 +8,16 @@ public class Start {
 		// TODO Auto-generated method stub
 
 		
+		//COSO EXPLICATORIO
 		char frase[] = new char[13];
 		
 		
 		frase[0]= 'Y';
 		frase[1]= 'E';
 		frase[2]= 'R';
-		frase[3]= 'A';
-		frase[4]= 'Y';
-		frase[5]= ',';
-		frase[6]= 'M';
-		frase[7]= 'A';
-		frase[8]= 'R';
-		frase[9]= 'I';
-		frase[10]= 'C';
-		frase[11]= 'O';
-		frase[12]= 'N';
+		
+		
+		// COSO QUE XPLOICA COSAS
 		
 		
 		for(int a = frase.length-1; a>=0;a--) {
@@ -32,6 +26,7 @@ public class Start {
 			
 			
 		}
+		
 		System.out.println();
 		for(char letra:frase) {
 			
