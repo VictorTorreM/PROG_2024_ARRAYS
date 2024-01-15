@@ -158,6 +158,6 @@ public class Termometro {
 			break;
 		}
 		return min;
-
+ 
 	}
 }
